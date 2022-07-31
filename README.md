@@ -6,7 +6,11 @@ Formulario realizado con la última versión de React.
 
 API en .NET 6 con EntityFramework code first.
 
-*Se debe agregar al menos un registro de TipoPermiso para realizar las pruebas correspondientes.*
+#### Se debe agregar al menos un registro de TipoPermiso para realizar las pruebas correspondientes.
+
+```
+INSERT INTO TiposPermisos (Descripcion) VALUES ('Administrador'), ('Usuario'), ('Auxiliar')
+```
 
 ## Problemas conocidos
 - No se ha aplicado la conexión a ElasticSearch solicitado.
