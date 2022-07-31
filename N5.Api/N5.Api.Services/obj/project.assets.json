@@ -1832,11 +1832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj",
+      "projectUniqueName": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj",
       "projectName": "N5.Api.Services",
-      "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj",
+      "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj",
       "packagesPath": "C:\\Users\\mroman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Services\\obj\\",
+      "outputPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mroman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1854,11 +1854,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj"
             },
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj"
             }
           }
         }

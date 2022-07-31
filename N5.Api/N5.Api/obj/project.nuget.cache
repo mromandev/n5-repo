@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MoW/VWgkwEgB6dO8dEXfjcWDFUqDfwxGBf+PaZcjuTPgQILgg92lxAHv4dIdJOESOktnZQJAfOkdt3Usb6OhPQ==",
+  "dgSpecHash": "mcQmd4u3x2nkTIoOIDOUSvY3dVfAxlK/PwAf1u4PSXpimMYxq7dtAa0jJpadWWqP6g7doLLcnUlTdRzCnP+BCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api\\N5.Api.csproj",
+  "projectFilePath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api\\N5.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mroman\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\mroman\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",

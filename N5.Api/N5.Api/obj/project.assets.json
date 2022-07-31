@@ -7166,11 +7166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api\\N5.Api.csproj",
+      "projectUniqueName": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api\\N5.Api.csproj",
       "projectName": "N5.Api",
-      "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api\\N5.Api.csproj",
+      "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api\\N5.Api.csproj",
       "packagesPath": "C:\\Users\\mroman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api\\obj\\",
+      "outputPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mroman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7188,20 +7188,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj"
             },
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Interfaces\\N5.Api.Interfaces.csproj"
             },
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Repository\\N5.Api.Repository.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Repository\\N5.Api.Repository.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Repository\\N5.Api.Repository.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Repository\\N5.Api.Repository.csproj"
             },
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Services\\N5.Api.Services.csproj"
             },
-            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj": {
-              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj"
+            "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj": {
+              "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Utils\\N5.Api.Utils.csproj"
             }
           }
         }

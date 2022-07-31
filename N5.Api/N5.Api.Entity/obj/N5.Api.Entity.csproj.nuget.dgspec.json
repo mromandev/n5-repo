@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj": {}
+    "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj": {
+    "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj",
         "projectName": "N5.Api.Entity",
-        "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj",
+        "projectPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj",
         "packagesPath": "C:\\Users\\mroman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\obj\\",
+        "outputPath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mroman\\AppData\\Roaming\\NuGet\\NuGet.Config",

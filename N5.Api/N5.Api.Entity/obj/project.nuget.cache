@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F3BFF/C9Cdz8cIdvQg5xGdPmtIn5JQrBHouqvVCSESKZh2Id1h3iaTe1ABj52OOVFKFWyfLjW28wSv0yE+BSpA==",
+  "dgSpecHash": "FwOAFMqOsDbVsQKMnGxOMnFk0DFIhst7E9s99robNU67B2xFWxlR72ssFC9nuOgDq4adnwjAx8UrKBdN429PFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\n5-api\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj",
+  "projectFilePath": "C:\\Users\\mroman\\Desktop\\N5\\n5-repo\\N5.Api\\N5.Api.Entity\\N5.Api.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mroman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mroman\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

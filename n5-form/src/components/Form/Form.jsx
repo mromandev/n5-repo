@@ -22,8 +22,13 @@ const Form = ({ permTypes, rowToEdit, onCancel, onSave }) => {
     const handleSubmit = (ev) => {
         ev.preventDefault();
 
+        const reg = new RegExp("[a-zA-Z]");
         if (!form.nombreEmpleado || !form.apellidoEmpleado || form.idTipoPermiso === 0) {
-            alert("Verificar los datos a ingresar.");
+            alert("Completar los campos requeridos.");
+            return;
+        }
+        else if (!reg.test(form.nombreEmpleado) || !reg.test(form.apellidoEmpleado)) {
+            alert("Ingresar solo texto en los campos.");
             return;
         }
 

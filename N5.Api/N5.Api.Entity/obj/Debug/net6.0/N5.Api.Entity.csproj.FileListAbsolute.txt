@@ -12,3 +12,17 @@ C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Entity\obj\Debug\net6.0\refint\N
 C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.pdb
 C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.genruntimeconfig.cache
 C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Entity\obj\Debug\net6.0\ref\N5.Api.Entity.dll
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\bin\Debug\net6.0\N5.Api.Entity.deps.json
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\bin\Debug\net6.0\N5.Api.Entity.runtimeconfig.json
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\bin\Debug\net6.0\N5.Api.Entity.dll
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\bin\Debug\net6.0\N5.Api.Entity.pdb
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.csproj.AssemblyReference.cache
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.AssemblyInfoInputs.cache
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.AssemblyInfo.cs
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.dll
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\refint\N5.Api.Entity.dll
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.pdb
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\N5.Api.Entity.genruntimeconfig.cache
+C:\Users\mroman\Desktop\N5\n5-repo\N5.Api\N5.Api.Entity\obj\Debug\net6.0\ref\N5.Api.Entity.dll
