@@ -6,6 +6,8 @@ Formulario realizado con la última versión de React.
 
 API en .NET 6 con EntityFramework code first.
 
+*Se debe agregar al menos un registro de TipoPermiso para realizar las pruebas correspondientes.*
+
 ## Problemas conocidos
 - No se ha aplicado la conexión a ElasticSearch solicitado.
 - Al momento de realizar la migración del dbContext interfiere la inyeccion de IConfiguration. Se omite comentando la inyeccion dentro del dbContext durante la migración.
