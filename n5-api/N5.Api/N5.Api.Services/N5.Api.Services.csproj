@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\N5.Api.Interfaces\N5.Api.Interfaces.csproj" />
+    <ProjectReference Include="..\N5.Api.Utils\N5.Api.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\bin\Debug\net6.0\N5.Api.Interfaces.deps.json
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\bin\Debug\net6.0\N5.Api.Interfaces.dll
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\bin\Debug\net6.0\N5.Api.Interfaces.pdb
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\bin\Debug\net6.0\N5.Api.Entity.dll
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\bin\Debug\net6.0\N5.Api.Entity.pdb
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.csproj.AssemblyReference.cache
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.AssemblyInfoInputs.cache
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.AssemblyInfo.cs
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.csproj.CopyComplete
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.dll
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\refint\N5.Api.Interfaces.dll
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\N5.Api.Interfaces.pdb
+C:\Users\mroman\Desktop\N5\n5-api\N5.Api\N5.Api.Interfaces\obj\Debug\net6.0\ref\N5.Api.Interfaces.dll
